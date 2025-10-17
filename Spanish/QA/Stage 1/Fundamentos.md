@@ -1,18 +1,3 @@
-
-- [[Fundamentos#1. ¿Qué es la calidad de software?|¿Qué es la calidad de software?]]
-	- [[Fundamentos#1.1 Conformidad vs adecuación al uso|Conformidad vs adecuación al uso]]
-	- [[Fundamentos#1.2 Costes de la falta de calidad|Costes de la falta de calidad]]
-- [[Fundamentos#2. Principios del Testing|Principios del Testing]]
-	- [[Fundamentos#2.1 Exhaustividad imposible|Exhaustividad imposible]]
-	- [[Fundamentos#2.2 Detección de defectos|Detección de defectos]]
-	- [[Fundamentos#2.3 Paradoja de los pesticidas|Paradoja de los pesticidas]]
-	- [[Fundamentos#2.4 Principio del _shift-left_|Principio del _shift-left_]]
-	- [[Fundamentos#2.5 Principio de la detección temprana|Principio de la detección temprana]]
-	- [[Fundamentos#2.6 Principio de Contexto|Principio de Contexto]]
-	- [[Fundamentos#2.7 Principio del Agrupamiento de Defectos (Ley de Pareto)|Principio del Agrupamiento de Defectos (Ley de Pareto)]]
-	- [[Fundamentos#2.8 Principio de Paridad de Entorno|Principio de Paridad de Entorno]]
-- [[Fundamentos#Conclusión|Conclusión]]
-	
 ### 1. ¿Qué es la calidad de software?
 
 La calidad de software se define, de forma general, como el grado en que un producto de software cumple con los requisitos y expectativas tanto explícitas como implícitas de sus usuarios y de sus interesados (stakeholders). Desde la perspectiva de estándares como la [[ISO-IEC 25010|ISO/IEC 25010]], la calidad engloba características como fiabilidad, usabilidad, eficiencia, mantenibilidad y seguridad.

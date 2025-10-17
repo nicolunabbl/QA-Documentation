@@ -7,7 +7,7 @@ Según la norma ISO/IEC 25000 (SQuaRE), el QA implica la implementación de proc
 
 Es fundamental comprender las diferencias entre estos tres conceptos, ya que cada uno desempeña un papel crucial en la entrega de un software de calidad: [devch-tech.github.io](https://devch-tech.github.io/QA-Manual-Curso/Modulo-01-Introduccion-al-QA-Manual/?utm_source=chatgpt.com)
 
-- **QA (Quality Assurance)**: Se enfoca en la mejora de procesos y en la prevención de defectos a lo largo del ciclo de vida del desarrollo del software. Su objetivo es garantizar que se sigan las mejores prácticas y se cumplan los estándares durante todo el proceso de desarrollo.[testeandoya.com+6devch-tech.github.io+6oteroqa.com+6](https://devch-tech.github.io/QA-Manual-Curso/Modulo-01-Introduccion-al-QA-Manual/?utm_source=chatgpt.com)
+- **QA (Quality Assurance)**: Se enfoca en la mejora de procesos y en la prevención de defectos a lo largo del ciclo de vida del desarrollo del software. Su objetivo es garantizar que se sigan las mejores prácticas y se cumplan los estándares durante todo el proceso de desarrollo.
 	- **Actividades de QA**
 		- Diseño y preparación de la estrategia general de Calidad
 		- Revisión de historias de usuario con el Product Owner.
@@ -23,7 +23,7 @@ Es fundamental comprender las diferencias entre estos tres conceptos, ya que cad
 		- Mas todo lo enlistado en la lista del Tester.
 
 
-- **Testing**: Es una parte del QA que se centra en la ejecución de pruebas para identificar defectos en el software. Se lleva a cabo una vez que el software está desarrollado, con el fin de asegurarse de que funciona como se espera. [devch-tech.github.io+1oteroqa.com+1](https://devch-tech.github.io/QA-Manual-Curso/Modulo-01-Introduccion-al-QA-Manual/?utm_source=chatgpt.com)
+- **Testing**: Es una parte del QA que se centra en la ejecución de pruebas para identificar defectos en el software. Se lleva a cabo una vez que el software está desarrollado, con el fin de asegurarse de que funciona como se espera. [QA Manual](https://devch-tech.github.io/QA-Manual-Curso/Modulo-01-Introduccion-al-QA-Manual/?utm_source=chatgpt.com)
 	- **Actividades del Tester:**
 		- Diseñar el plan de pruebas.
 		- Definir los casos de prueba en base a los requisitos funcionales, no funcionales y técnicos.
@@ -34,7 +34,7 @@ Es fundamental comprender las diferencias entre estos tres conceptos, ya que cad
 		- Registrar los incidentes encontrados durante la fase de pruebas, así como también realizar su seguimiento para asegurar su adecuada corrección.
 		- Pruebas avanzadas (carga, estrés, performance, seguridad, etc)
     
-- **QC (Control de Calidad)**: Implica la verificación y validación del producto final para asegurar que cumple con los requisitos y especificaciones establecidos. Es un proceso reactivo que se enfoca en identificar y corregir defectos en el producto terminado. [oteroqa.com](https://oteroqa.com/que-es-qa-qc-y-qe-en-las-pruebas-de-software/?utm_source=chatgpt.com)
+- **QC (Control de Calidad)**: Implica la verificación y validación del producto final para asegurar que cumple con los requisitos y especificaciones establecidos. Es un proceso reactivo que se enfoca en identificar y corregir defectos en el producto terminado. [QA y QC](https://oteroqa.com/que-es-qa-qc-y-qe-en-las-pruebas-de-software/?utm_source=chatgpt.com)
     
 
 Estas definiciones están respaldadas por la norma ISO/IEC 29119, que proporciona un marco para los procesos de prueba de software .
