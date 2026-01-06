@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edff9e8416a6ca72",
+        "id": "42153f47953b5acc",
         "type": "tabs",
         "children": [
           {
-            "id": "1762f641c681c5d9",
+            "id": "d63be30a8aae0574",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Descripción de una HU.png"
-              },
-              "icon": "lucide-image",
-              "title": "Descripción de una HU"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -159,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -168,8 +167,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e5b80a6924a3894",
+  "active": "d63be30a8aae0574",
   "lastOpenFiles": [
+    "Sin título 2.base",
+    "Sin título 1.base",
+    "Sin título.base",
     "Spanish",
     "Nueva carpeta",
     "🗺️Roadmap QA.md",
@@ -205,11 +207,8 @@
     "Descripción de una HU.png",
     "QA/Stage 3",
     "QA/Stage 5",
-    "QA/Stage 1",
     "QA/QA.canvas",
-    "QA",
     "Sin título.canvas",
-    "Plantillas/Reporte Bugs",
     "Conceptos Fundamenales/Sin título.canvas"
   ]
 }

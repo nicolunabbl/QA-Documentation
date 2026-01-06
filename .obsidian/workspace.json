@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0463cf0999837b59",
+        "id": "0d3cd0007386d270",
         "type": "tabs",
         "children": [
           {
-            "id": "a62c7957b2476e81",
+            "id": "eeda247f287ff557",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Team/Proyectos/Riwi/Centinela.md",
-                "mode": "source",
-                "source": false
+                "file": "Team/Proyectos/Riwi/Riwi Talent/RiwiTalent Modulos.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Centinela"
+              "icon": "excalidraw-icon",
+              "title": "RiwiTalent Modulos"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 433.5
   },
   "right": {
     "id": "fd6ea5c85fc51a8e",
@@ -166,21 +164,40 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "a62c7957b2476e81",
+  "active": "eeda247f287ff557",
   "lastOpenFiles": [
-    "Team/Proyectos/Riwi/Riwi Docs.md",
-    "Team/Proyectos/Riwi/Centinela.md",
-    "Team/Proyectos/Riwi/Molly Bot.md",
-    "Team/Proyectos/Riwi/Coworking.md",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos/Flujo Talentos.excalidraw",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos/Flujo Procesos.excalidraw",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos/Flujo Encuestas.excalidraw",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos/Flujo Empresas.excalidraw",
+    "Spanish/🗺️Roadmap QA.md",
+    "Spanish/Sin título 1.base",
+    "Spanish/Sin título 2.base",
+    "Spanish/Sin título.base",
+    "Team/Proyectos/Riwi/Riwi Talent/RiwiTalent Modulos.excalidraw",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos/Drawing 2025-12-03 09.28.29.excalidraw.md",
+    "Team/Proyectos/Riwi/Riwi Talent/Flujos",
     "Team/Proyectos/Riwi/Riwi Talent.md",
+    "Team/Proyectos/Riwi/Drawing 2025-12-03 09.14.40.excalidraw.md",
+    "Team/Requisitos Técnicos.md",
+    "Team/Proyectos/Riwi/Coworking/1. Introducción y alcance.md",
+    "2025-12-03.md",
+    "Sin título.canvas",
+    "Team/Proyectos/Riwi/Coworking/5. Plan y estrategia de pruebas.md",
+    "Team/Proyectos/Riwi/Centinela.md",
+    "Team/Proyectos/Riwi/Coworking/3. Objetivos de calidad y criterios de aceptación.md",
+    "Team/Proyectos/Riwi/Coworking/2. Arquitectura y módulos principales.md",
+    "Spanish/QA/Stage 1/Introducción QA.md",
+    "Spanish/QA/Stage 1/Fundamentos.md",
+    "Team/Proyectos/Riwi/Coworking/4. Alcance y exclusiones.md",
+    "Team/Proyectos/Riwi/Riwi Docs.md",
+    "Team/Proyectos/Riwi/Molly Bot.md",
     "Spanish/QA/Stage 6/Conceptos clave.md",
-    "Team/Proyectos/Riwi",
-    "Team/Proyectos/Nueva carpeta",
-    "Team/Proyectos",
-    "Team/Nueva carpeta",
     "Spanish/QA/Stage 6/Buenas Prácticas y Cultura.md",
     "Spanish/QA/Stage 6/Automatización y Frameworks.md",
     "Spanish/QA/Stage 3/Técnicas de priorización.md",
@@ -189,24 +206,6 @@
     "Spanish/QA/Stage 3/Casos de Prueba.md",
     "Spanish/QA/Stage 2/Scrum.md",
     "Spanish/QA/Stage 2/Cascada.md",
-    "Spanish/QA/Stage 1/Testing.md",
-    "Spanish/QA/Stage 1/Introducción QA.md",
-    "Spanish/QA/Stage 4/Niveles de Testing.md",
-    "Spanish/QA/Stage 4/Tipos de prueba.md",
-    "Team/Requisitos Técnicos.md",
-    "Team",
-    "Spanish/QA/Stage 1/Fundamentos.md",
-    "Spanish/QA/Stage 5/Bug.md",
-    "Spanish/🗺️Roadmap QA.md",
-    "Spanish/QA/Stage 5/Severidad.md",
-    "Stage 6.md",
-    "Stage.md",
-    "Conceptos.md",
-    "Spanish/QA/Stage 6/ISO-IEC 25010.md",
-    "qa-evaluation-system/Makefile",
-    "qa-evaluation-system/scripts/setup.sh",
-    "qa-evaluation-system/database/init.sql",
-    "qa-evaluation-system/docker/configs/nginx.conf",
-    "qa-evaluation-system/docker-compose.yml"
+    "Spanish/QA/Stage 1/Testing.md"
   ]
 }
